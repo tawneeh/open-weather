@@ -16,7 +16,7 @@ Software Requirements
 * A code editor; I prefer VSCode
 
 Open by Downloading
-* Navigate to <GITHUB URL>
+* Navigate to <https://github.com/tawneeh/open-weather.git>
 * Download this repository to your computer by clicking the green Code button and'Download Zip'
 * Or clone the repository
 * Then, double click `index.html` to view the page
